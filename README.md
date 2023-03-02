@@ -1,1 +1,3 @@
-# ml-deployment-workshop-template
+# Setup
+
+run ``pip install -r dev_requirements.txt``
