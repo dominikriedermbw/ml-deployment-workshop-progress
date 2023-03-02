@@ -5,3 +5,4 @@ seaborn==0.12.2
 scikit-learn==1.2.1
 ipython==8.11.0
 onnxruntime==1.14.1
+skl2onnx==1.14.0
